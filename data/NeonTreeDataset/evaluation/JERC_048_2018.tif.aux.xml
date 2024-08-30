@@ -1,0 +1,29 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">254</MDI>
+      <MDI key="STATISTICS_MEAN">151.89340801163</MDI>
+      <MDI key="STATISTICS_MINIMUM">7</MDI>
+      <MDI key="STATISTICS_STDDEV">50.761751781206</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">99.76</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="2">
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">254</MDI>
+      <MDI key="STATISTICS_MEAN">147.21401778011</MDI>
+      <MDI key="STATISTICS_MINIMUM">5</MDI>
+      <MDI key="STATISTICS_STDDEV">46.356209120451</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">99.97</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="3">
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">251</MDI>
+      <MDI key="STATISTICS_MEAN">104.27293807345</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_STDDEV">28.161233137005</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">99.999</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
